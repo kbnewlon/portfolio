@@ -772,7 +772,7 @@ input[type='checkbox'] {
 /*    04. Header     */
 /*********************/
 .header {
-	background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)), url('../images/header-background.jpg') center center no-repeat;
+	background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)), url('../images/stonehedgeCover.JPG') center center no-repeat;
 	background-size: cover;
 }
 
@@ -1419,6 +1419,7 @@ input[type='checkbox'] {
 	border-radius: 0.25rem;
 	background: #fff;
 	text-align: left;
+
 }
 
 .lightbox-basic img {
@@ -1426,6 +1427,7 @@ input[type='checkbox'] {
 	margin-bottom: 2rem;
 	margin-left: auto;
 	border-radius: 0.25rem;
+
 }
 
 .lightbox-basic .line-heading {
