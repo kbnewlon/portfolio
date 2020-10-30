@@ -36,6 +36,7 @@ No tests available
 ![]()
 ## Links
 To Repo: https://github.com/kbnewlon/portfolio
+<br> To deployed github page: https://kbnewlon.github.io/portfolio/
 
  
 
